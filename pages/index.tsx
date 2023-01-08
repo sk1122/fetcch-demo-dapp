@@ -102,7 +102,7 @@ const Home: NextPage = () => {
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
               alt=""
             />
-            <h3 className="text-lg font-bold">Price - 200 USDC</h3>
+            <h3 className="text-lg font-bold">Price - 2000 USDC</h3>
             <input
               value={fetcchId}
               onChange={(e) => setFetcchId(e.target.value)}
